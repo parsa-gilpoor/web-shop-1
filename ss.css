@@ -1,0 +1,117 @@
+
+
+body{
+    background-image: url('essential-tools-1.jpg');
+    background-size: 100%;
+    max-width: fit-content;
+    
+}
+
+
+.photo{
+    margin-left: 14%;
+    max-width: fit-content;
+
+
+}
+
+
+
+.p1{
+    margin-left:13%;
+    color: rgb(0, 0, 0);
+    border: 25% solid rgb(161, 118, 74);
+    width: 74%;
+    height: 74%;
+    background-color: rgb(161, 118, 74);
+    background-repeat: no-repeat;
+    
+    font-size: 145%;
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+/* Style the navigation menu */
+.topnav {
+    overflow: hidden;
+    background-color: #070707;
+    position: relative;
+  }
+  
+  /* Hide the links inside the navigation menu (except for logo/home) */
+  .topnav #myLinks {
+    display: none;
+  }
+  
+  /* Style navigation menu links */
+  .topnav a {
+    color: rgb(188, 196, 84);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+  }
+  
+  /* Style the hamburger menu */
+  .topnav a.icon {
+    background: rgb(27, 26, 26);
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  
+  /* Add a grey background color on mouse-over */
+  .topnav a:hover {
+    background-color: hsl(69, 67%, 46%);
+    color: rgb(215, 19, 19);
+  }
+  
+  /* Style the active link (or home/logo) */
+  .active {
+    background-color: #a1764a;
+    color: rgb(19, 18, 18);
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
